@@ -15,7 +15,7 @@ coreschema==0.0.4
 cryptography==2.2.2
 decorator==4.3.0
 diff-match-patch==20121119
-Django==1.11.11
+Django==2.2.24
 django-ckeditor==5.6.1
 django-cors-headers==2.4.0
 django-crispy-forms==1.7.2
